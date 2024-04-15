@@ -1,3 +1,5 @@
+My professional journey:
+
 As a professional in the field of computer science, I bring a blend of technical expertise, problem-solving skills, and a commitment to continuous improvement to every project I undertake. Throughout my journey in the CS Capstone course, I've had the opportunity to enhance my skills and demonstrate proficiency across various areas, which I believe are quantifiably supported by the artifacts in my ePortfolio.
 
 One of my key strengths lies in my ability to collaborate effectively within diverse teams to achieve common goals. Through enhancements made to the Dog, Monkey, and AnimalRepository classes, I've employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making. By incorporating feedback from stakeholders and domain experts, I've ensured that the solutions developed address real-world needs and challenges in the field of animal rescue operations.
